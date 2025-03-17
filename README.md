@@ -39,3 +39,16 @@ User-appliable:
 - Texture removal
 - Particle removal
 
+LunarView's efficient and optimized engine also supports community-created extensions.
+
+## How does LunarView run extensions? 
+
+- The community creates extensions which are verified and checked by our developer team incase of an explicit injection.
+- Specific & official extensions are automatically applied in specific games, yet you can still turn them off.
+
+## Developer support & built-in terminal
+
+- Users can also use commands in order to set configs faster.
+- Terminal supports a custom command language, which is really easy to understand.
+- Abusing the terminal is not possible, it was designed precisely enough to prevent users from injecting malicious content.
+- The terminal is strongly intertwined between the tool, meaning user data is shared between the tool & the terminal.
