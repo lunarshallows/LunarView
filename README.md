@@ -53,6 +53,6 @@ Developer support:
 - The terminal is non-exploitable, any attempt of Lua injection or malicious attack is blocked instantly. Any flaws are fixed as soon as possible.
 - The terminal is intertwined with shared data saved in LunarView, so using it is purely global between sessions.
 
-## Use tool at your own risk, some games can flag your actions as a potential cheat execution and terminate you from attending the game.
+## Use the tool at your own risk, some games can flag your actions as a potential cheat execution and terminate you from attending the game.
 
 ## Any sort of reuploading, publishing and cloning is prohibited, as the tool is protected via GitHub's licenses under ownership of LunarView and it's intertwined groups/studios.
