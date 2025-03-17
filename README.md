@@ -52,3 +52,13 @@ LunarView's efficient and optimized engine also supports community-created exten
 - Terminal supports a custom command language, which is really easy to understand.
 - Abusing the terminal is not possible, it was designed precisely enough to prevent users from injecting malicious content.
 - The terminal is strongly intertwined between the tool, meaning user data is shared between the tool & the terminal.
+
+## Potential risks
+
+- Users could get banned for changing settings, reason is that some experiences flag this as a potential cheat injection
+- Users could experience data loss, game crashes and more
+- Users will experience instant game glitches and LunarView data corruption once injecting a command table with errors (Error debugging not implemented yet)
+
+# Use at your own risk, games stated before have a guaranteed experience without bugs, potential bans and more unpleasant moments.
+
+# Remaking, reuploading and more plagiarist movements are prohibited as that would be flagged as infringing content, as the LunarView tool is rightfully owned and ran by LunarView and it's contributors.
