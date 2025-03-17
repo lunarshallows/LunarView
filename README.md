@@ -39,26 +39,20 @@ User-appliable:
 - Texture removal
 - Particle removal
 
-LunarView's efficient and optimized engine also supports community-created extensions.
+## Extension & developer support
 
-## How does LunarView run extensions? 
+Extensions: 
 
-- The community creates extensions which are verified and checked by our developer team incase of an explicit injection.
-- Specific & official extensions are automatically applied in specific games, yet you can still turn them off.
+- Users can create extensions which might get added, based on engine and security.
+- Official extensions also contain extensions for specific experiences which are automatically enabled (Disableable)
+- Extensions are 100% safe and user-friendly.
 
-## Developer support & built-in terminal
+Developer support:
 
-- Users can also use commands in order to set configs faster.
-- Terminal supports a custom command language, which is really easy to understand.
-- Abusing the terminal is not possible, it was designed precisely enough to prevent users from injecting malicious content.
-- The terminal is strongly intertwined between the tool, meaning user data is shared between the tool & the terminal.
+- LunarView contains a terminal which you can use to set your config faster (Has its own command language you can learn in just few minutes!)
+- The terminal is non-exploitable, any attempt of Lua injection or malicious attack is blocked instantly. Any flaws are fixed as soon as possible.
+- The terminal is intertwined with shared data saved in LunarView, so using it is purely global between sessions.
 
-## Potential risks
+## Use tool at your own risk, some games can flag your actions as a potential cheat execution and terminate you from attending the game.
 
-- Users could get banned for changing settings, reason is that some experiences flag this as a potential cheat injection
-- Users could experience data loss, game crashes and more
-- Users will experience instant game glitches and LunarView data corruption once injecting a command table with errors (Error debugging not implemented yet)
-
-# Use at your own risk, games stated before have a guaranteed experience without bugs, potential bans and more unpleasant moments.
-
-# Remaking, reuploading and more plagiarist movements are prohibited as that would be flagged as infringing content, as the LunarView tool is rightfully owned and ran by LunarView and it's contributors.
+## Any sort of reuploading, publishing and cloning is prohibited, as the tool is protected via GitHub's licenses under ownership of LunarView and it's intertwined groups/studios.
